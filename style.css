@@ -52,7 +52,7 @@ header a {
  
   
   .hero {
-    background-image: url("/Users/admin/Desktop/projects/challegeW1/digital-marketing-meeting.jpg");
+    background-image: url("./digital-marketing-meeting.jpg");
     height: 500px;
     background-size: cover;
 background-position: center;
